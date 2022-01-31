@@ -10,7 +10,11 @@ Desenvolvido usando Lua como linguagem de script e Löve como biblioteca gráfic
 ## Como Jogar?
 <img src="https://github.com/jgfenix/crazy_aviator/blob/main/git-images/print-crazy-aviator.png" width=30% height=30%>
 <img src="https://static.wikia.nocookie.net/diepio/images/9/93/WASD.png/revision/latest/scale-to-width-down/300?cb=20181206065147" width=30% height=30%>
+
 ## Como executar?
+Baixar e descompactar o zip **crazy_aviator.zip** em alguma pasta, e dar Enter ou dois cliques no arquivo **crazy_aviator.exe**
+
+Obs: No zip estão ocultos os arquivos da biblioteca Löve e Lua
 
 | Sistema Operacional | Link |
 | ------ | ------ |
@@ -18,10 +22,6 @@ Desenvolvido usando Lua como linguagem de script e Löve como biblioteca gráfic
 | Windows 32b | [EM BREVE!] |
 | Debian 32b  | [EM BREVE!] |
 | Debian 64b  | [EM BREVE!] |
-
-Baixar e descompactar o zip **crazy_aviator.zip** em alguma pasta, e dar Enter ou dois cliques no arquivo **crazy_aviator.exe**
-
-Obs: No zip estão ocultos os arquivos da biblioteca Löve e Lua
 
 ## Licença
 
