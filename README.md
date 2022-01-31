@@ -8,14 +8,16 @@ Você tem 3 vidas, a cada vez que houver uma colisão com algum asteróide, sua 
 Desenvolvido usando Lua como linguagem de script e Löve como biblioteca gráfica, é mais um projeto pra aprender esses dois mesmo, mas quem sabe onde isso pode dar?
 
 ## Como Jogar?
-<img src="https://github.com/jgfenix/crazy_aviator/git-images/print-crazy-aviator.png" width=50% height=50%>
+<img src="https://github.com/jgfenix/crazy_aviator/blob/main/git-images/print-crazy-aviator.png" width=30% height=30%>
 <img src="https://static.wikia.nocookie.net/diepio/images/9/93/WASD.png/revision/latest/scale-to-width-down/300?cb=20181206065147" width=30% height=30%>
 ## Como executar?
 
 | Sistema Operacional | Link |
 | ------ | ------ |
-| Windows 64b | [exe/win64/crazy_aviator.zip][PlDb] |
-| Windows 32b | [exe/win32/crazy_aviator.zip][PlDb] |
+| Windows 64b | [https://github.com/jgfenix/crazy_aviator/blob/main/exe/win64/crazy_aviator.zip] |
+| Windows 32b | [EM BREVE!] |
+| Debian 32b  | [EM BREVE!] |
+| Debian 64b  | [EM BREVE!] |
 
 Baixar e descompactar o zip **crazy_aviator.zip** em alguma pasta, e dar Enter ou dois cliques no arquivo **crazy_aviator.exe**
 
