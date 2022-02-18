@@ -1,0 +1,5 @@
+tmp_dir
+build.bat
+exe/*
+!exe/win32/crazy_aviator/crazy_aviator.zip
+!exe/win64/crazy_aviator/crazy_aviator.zip
